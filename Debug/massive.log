@@ -1,0 +1,3 @@
+﻿  massive.cpp
+C:\Users\paart\source\repos\massive\massive.cpp(10,7): warning C4101: chekk: неиспользованная локальная переменная
+  massive.vcxproj -> C:\Users\paart\source\repos\massive\Debug\massive.exe
